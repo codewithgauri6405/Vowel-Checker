@@ -15,7 +15,7 @@ using namespace std;
 int main(){
     string input;
     cout<<"Enter a string : ";
-    cin>>input; cd
+    cin>>input; 
 
     int vowelCount = countVowels(input);
     cout<<"Numbers of vowels : "<<vowelCount<<endl;
